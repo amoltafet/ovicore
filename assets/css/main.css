@@ -237,6 +237,7 @@ section {
 .header .logo img {
   max-height: 40px;
   margin-right: 6px;
+  margin-left: 5em;
 }
 
 .header .logo h1 {
@@ -260,6 +261,7 @@ section {
   border-radius: 4px;
   transition: 0.3s;
   font-family: var(--font-secondary);
+  margin-right: 4em;
 }
 
 .header .btn-getstarted:hover,
@@ -3273,4 +3275,8 @@ section {
 .footer .footer-legal .social-links a:hover {
   background: var(--color-primary);
   text-decoration: none;
+}
+
+.logo-name {
+  margin-left: 5em;
 }
