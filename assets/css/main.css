@@ -1724,7 +1724,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: var(--color-white);
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1734,7 +1734,7 @@ section {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(var(--color-secondary-dark-rgb), 0.8);
+  background: var(--color-white);
 }
 
 .testimonials .section-header {
@@ -1748,7 +1748,7 @@ section {
 
 .testimonials .testimonial-item {
   text-align: center;
-  color: var(--color-white);
+  color: var(--color-black);
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -1762,12 +1762,12 @@ section {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: var(--color-white);
+  color: var(--color-black);
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: rgba(var(--color-white-rgb), 0.6);
+  color: rgba(var(--color-black-rgb), 0.6);
   margin: 0 0 15px 0;
 }
 
@@ -1782,7 +1782,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: rgba(var(--color-white-rgb), 0.6);
+  color: rgba(var(--color-black-rgb), 0.6);
   font-size: 26px;
   line-height: 0;
 }
