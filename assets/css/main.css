@@ -278,6 +278,10 @@ section {
   }
 }
 
+.icon-nav {
+  margin-right: 5px;
+}
+
 /*--------------------------------------------------------------
 # Desktop Navigation 
 --------------------------------------------------------------*/
@@ -490,7 +494,7 @@ section {
   .navbar a:focus {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: left;
     padding: 12px 20px;
     font-size: 16px;
     font-weight: 500;
@@ -573,7 +577,7 @@ section {
 .hero-animated {
   width: 100%;
   min-height: 50vh;
-  background: url("../img/hero-bg.png") center center;
+  background: url("../img/team-hero.svg") center center;
   background-size: cover;
   position: relative;
   padding: 120px 0 60px;
@@ -2454,4 +2458,9 @@ section {
 .logo-name {
   margin-left: 5em;
 }
+}
+
+.termsandconditions {
+  padding: 10%;
+  margin-top: -10%;
 }
