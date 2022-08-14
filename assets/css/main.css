@@ -2454,9 +2454,9 @@ section {
 
 
 @media (min-width: 992px) {
-  /* if desktop */
-.logo-name {
-  margin-left: 5%;
+.header {
+  padding-left: 8em;
+  padding-right: 8em;
 }
 }
 
