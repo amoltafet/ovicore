@@ -2467,7 +2467,7 @@ section {
   padding: 0.5%;
   margin-top: -0.85%;
   margin-bottom: 0.3%;
-  color: white;
-  background-color: var(--color-primary);
+  color: var(--color-primary);
   text-align: center;
+  
 }
