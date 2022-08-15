@@ -2451,8 +2451,6 @@ section {
   background: var(--color-primary);
   text-decoration: none;
 }
-
-
 @media (min-width: 992px) {
 .header-inside {
   padding-left: 8em;
