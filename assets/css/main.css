@@ -2293,7 +2293,7 @@ section {
 }
 
 .footer .footer-content {
-  background: var(--color-secondary);
+  background: var(--color-primary);
   padding: 60px 0 30px 0;
 }
 
@@ -2419,7 +2419,7 @@ section {
 
 .footer .footer-legal {
   padding: 30px 0;
-  background: var(--color-secondary-dark);
+  background: var(--color-primary);
 }
 
 .footer .footer-legal .credits {
@@ -2454,7 +2454,7 @@ section {
 
 
 @media (min-width: 992px) {
-.header {
+.header-inside {
   padding-left: 8em;
   padding-right: 8em;
 }
@@ -2463,4 +2463,13 @@ section {
 .termsandconditions {
   padding: 10%;
   margin-top: -10%;
+}
+
+.container-banner-top {
+  padding: 0.5%;
+  margin-top: -0.85%;
+  margin-bottom: 0.3%;
+  color: white;
+  background-color: var(--color-primary);
+  text-align: center;
 }
