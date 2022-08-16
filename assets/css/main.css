@@ -569,14 +569,11 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Index Page
---------------------------------------------------------------*/
-/*--------------------------------------------------------------
 # Animated Hero Section
 --------------------------------------------------------------*/
 .hero-animated {
   width: 100%;
-  min-height: 50vh;
+  min-height: 55vh;
   background: url("../img/team-hero.svg") center center;
   background-size: cover;
   position: relative;
@@ -702,435 +699,6 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Carousel Hero Section
---------------------------------------------------------------*/
-.hero {
-  width: 100%;
-  min-height: 60vh;
-  padding: 0;
-  background: var(--color-black);
-  background: url("../img/hero-bg.png") center center;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 140px 0 60px 0;
-}
-
-@media (max-width: 640px) {
-  .hero .container {
-    padding: 0 60px;
-  }
-}
-
-.hero h2 {
-  color: var(--color-secondary);
-  margin-bottom: 25px;
-  font-size: 48px;
-  font-weight: 300;
-  -webkit-animation: fadeInDown 1s both 0.2s;
-  animation: fadeInDown 1s both 0.2s;
-}
-
-@media (max-width: 768px) {
-  .hero h2 {
-    font-size: 30px;
-  }
-}
-
-.hero p {
-  color: var(--color-secondary-light);
-  -webkit-animation: fadeInDown 1s both 0.4s;
-  animation: fadeInDown 1s both 0.4s;
-  font-weight: 500;
-  margin-bottom: 30px;
-}
-
-.hero .img {
-  margin-bottom: 40px;
-  -webkit-animation: fadeInDownLite 1s both;
-  animation: fadeInDownLite 1s both;
-}
-
-.hero .btn-get-started {
-  font-family: var(--font-secondary);
-  font-weight: 400;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 32px;
-  border-radius: 5px;
-  transition: 0.5s;
-  -webkit-animation: fadeInUp 1s both 0.6s;
-  animation: fadeInUp 1s both 0.6s;
-  color: var(--color-primary);
-  border: 2px solid var(--color-primary);
-}
-
-.hero .btn-get-started:hover {
-  background: var(--color-primary);
-  color: var(--color-white);
-}
-
-.hero .carousel-control-prev {
-  justify-content: start;
-}
-
-@media (min-width: 640px) {
-  .hero .carousel-control-prev {
-    padding-left: 15px;
-  }
-}
-
-.hero .carousel-control-next {
-  justify-content: end;
-}
-
-@media (min-width: 640px) {
-  .hero .carousel-control-next {
-    padding-right: 15px;
-  }
-}
-
-.hero .carousel-control-next-icon,
-.hero .carousel-control-prev-icon {
-  background: none;
-  font-size: 26px;
-  line-height: 0;
-  background: rgba(var(--color-secondary-rgb), 0.4);
-  color: rgba(var(--color-white-rgb), 0.98);
-  border-radius: 50px;
-  width: 54px;
-  height: 54px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.hero .carousel-control-next-icon {
-  padding-left: 3px;
-}
-
-.hero .carousel-control-prev-icon {
-  padding-right: 3px;
-}
-
-.hero .carousel-control-prev,
-.hero .carousel-control-next {
-  transition: 0.3s;
-}
-
-.hero .carousel-control-prev:focus,
-.hero .carousel-control-next:focus {
-  opacity: 0.5;
-}
-
-.hero .carousel-control-prev:hover,
-.hero .carousel-control-next:hover {
-  opacity: 0.9;
-}
-
-.hero .carousel-indicators li {
-  cursor: pointer;
-  background: rgba(var(--color-secondary-rgb), 0.5);
-  overflow: hidden;
-  border: 0;
-  width: 12px;
-  height: 12px;
-  border-radius: 50px;
-  opacity: 0.6;
-  transition: 0.3s;
-}
-
-.hero .carousel-indicators li.active {
-  opacity: 1;
-  background: var(--color-primary);
-}
-
-@-webkit-keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-@-webkit-keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translate3d(0, 100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translate3d(0, 100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@-webkit-keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translate3d(0, -100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translate3d(0, -100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@-webkit-keyframes fadeInDownLite {
-  from {
-    opacity: 0;
-    transform: translate3d(0, -10%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@keyframes fadeInDownLite {
-  from {
-    opacity: 0;
-    transform: translate3d(0, -10%, 0);
-  }
-
-  to {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-/*--------------------------------------------------------------
-# Fullscreen Hero Section
---------------------------------------------------------------*/
-.hero-fullscreen {
-  width: 100%;
-  min-height: 100vh;
-  background: url("../img/hero-fullscreen-bg.jpg") center center;
-  background-size: cover;
-  position: relative;
-  padding: 120px 0 60px;
-}
-
-.hero-fullscreen:before {
-  content: "";
-  background: rgba(var(--color-white-rgb), 0.85);
-  position: absolute;
-  inset: 0;
-}
-
-@media (min-width: 1365px) {
-  .hero-fullscreen {
-    background-attachment: fixed;
-  }
-}
-
-.hero-fullscreen h2 {
-  margin: 0 0 10px 0;
-  font-size: 48px;
-  font-weight: 300;
-  color: var(--color-secondary);
-  font-family: var(--font-secondary);
-}
-
-.hero-fullscreen h2 span {
-  color: var(--color-primary);
-}
-
-.hero-fullscreen p {
-  color: rgba(var(--color-secondary-rgb), 0.8);
-  margin: 0 0 30px 0;
-  font-size: 20px;
-  font-weight: 400;
-}
-
-.hero-fullscreen .btn-get-started {
-  font-size: 16px;
-  font-weight: 400;
-  display: inline-block;
-  padding: 10px 28px;
-  border-radius: 4px;
-  transition: 0.5s;
-  color: var(--color-white);
-  background: var(--color-primary);
-  font-family: var(--font-secondary);
-}
-
-.hero-fullscreen .btn-get-started:hover {
-  background: rgba(var(--color-primary-rgb), 0.8);
-}
-
-.hero-fullscreen .btn-watch-video {
-  font-size: 16px;
-  transition: 0.5s;
-  margin-left: 25px;
-  font-family: var(--font-secondary);
-  color: var(--color-secondary);
-  font-weight: 600;
-}
-
-.hero-fullscreen .btn-watch-video i {
-  color: var(--color-primary);
-  font-size: 32px;
-  transition: 0.3s;
-  line-height: 0;
-  margin-right: 8px;
-}
-
-.hero-fullscreen .btn-watch-video:hover {
-  color: var(--color-primary);
-}
-
-.hero-fullscreen .btn-watch-video:hover i {
-  color: rgba(var(--color-primary-rgb), 0.8);
-}
-
-@media (max-width: 640px) {
-  .hero-fullscreen h2 {
-    font-size: 32px;
-  }
-
-  .hero-fullscreen p {
-    font-size: 18px;
-    margin-bottom: 30px;
-  }
-
-  .hero-fullscreen .btn-get-started,
-  .hero-fullscreen .btn-watch-video {
-    font-size: 14px;
-  }
-}
-
-/*--------------------------------------------------------------
-# Static Hero Section
---------------------------------------------------------------*/
-.hero-static {
-  width: 100%;
-  min-height: 50vh;
-  background: url("../img/hero-bg.png") center center;
-  background-size: cover;
-  position: relative;
-  padding: 120px 0 60px;
-}
-
-.hero-static h2 {
-  margin: 0 0 10px 0;
-  font-size: 48px;
-  font-weight: 300;
-  color: var(--color-secondary);
-  font-family: var(--font-secondary);
-}
-
-.hero-static h2 span {
-  color: var(--color-primary);
-}
-
-.hero-static p {
-  color: rgba(var(--color-secondary-rgb), 0.8);
-  margin: 0 0 30px 0;
-  font-size: 20px;
-  font-weight: 400;
-}
-
-.hero-static .btn-get-started {
-  font-size: 16px;
-  font-weight: 400;
-  display: inline-block;
-  padding: 10px 28px;
-  border-radius: 4px;
-  transition: 0.5s;
-  color: var(--color-white);
-  background: var(--color-primary);
-  font-family: var(--font-secondary);
-}
-
-.hero-static .btn-get-started:hover {
-  background: rgba(var(--color-primary-rgb), 0.8);
-}
-
-.hero-static .btn-watch-video {
-  font-size: 16px;
-  transition: 0.5s;
-  margin-left: 25px;
-  font-family: var(--font-secondary);
-  color: var(--color-secondary);
-  font-weight: 600;
-}
-
-.hero-static .btn-watch-video i {
-  color: var(--color-primary);
-  font-size: 32px;
-  transition: 0.3s;
-  line-height: 0;
-  margin-right: 8px;
-}
-
-.hero-static .btn-watch-video:hover {
-  color: var(--color-primary);
-}
-
-.hero-static .btn-watch-video:hover i {
-  color: rgba(var(--color-primary-rgb), 0.8);
-}
-
-@media (max-width: 640px) {
-  .hero-static h2 {
-    font-size: 32px;
-  }
-
-  .hero-static p {
-    font-size: 18px;
-    margin-bottom: 30px;
-  }
-
-  .hero-static .btn-get-started,
-  .hero-static .btn-watch-video {
-    font-size: 14px;
-  }
-}
 
 /*--------------------------------------------------------------
 # Featured Services Section
@@ -1856,8 +1424,8 @@ section {
   background: linear-gradient(rgba(var(--color-secondary-rgb), 0.9), rgba(var(--color-secondary-rgb), 0.9)), url("../img/pricing-bg.jpg") center center;
   background-size: cover;
   text-align: center;
-  padding: 40px;
-  margin: -60px -40px 0;
+  padding: 30px;
+  margin: -50px -40px 0;
 }
 
 .pricing h3 {
@@ -1885,7 +1453,7 @@ section {
 }
 
 .pricing ul {
-  padding: 30px 0;
+  padding: 10px 0;
   list-style: none;
   color: var(--color-gray);
   text-align: left;
@@ -1921,7 +1489,7 @@ section {
 
 .pricing .buy-btn {
   display: inline-block;
-  padding: 12px 40px;
+  padding: 12px 20px;
   border-radius: 6px;
   color: var(--color-primary);
   transition: none;
@@ -1931,10 +1499,7 @@ section {
   border: 1px solid var(--color-primary);
 }
 
-.pricing .buy-btn:hover {
-  background: var(--color-primary);
-  color: var(--color-white);
-}
+
 
 .pricing .featured {
   border-color: var(--color-primary);
@@ -1945,8 +1510,7 @@ section {
 }
 
 .pricing .featured .buy-btn {
-  background: var(--color-primary);
-  color: var(--color-white);
+  color: var(--color-primary);
 }
 
 /*--------------------------------------------------------------
