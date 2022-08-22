@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>ovicore</title>
+	<title>OviCore</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Cloud Business Solution</description>
-	<lastBuildDate>Fri, 19 Aug 2022 23:02:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Aug 2022 02:40:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2022/08/logo-150x150.png</url>
-	<title>ovicore</title>
+	<title>OviCore</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
