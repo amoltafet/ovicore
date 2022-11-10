@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2022-11-08T05:50:26+00:00</lastmod>
+		<lastmod>2022-11-10T07:00:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite.png</image:loc>
 		</image:image>
@@ -44,17 +44,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/roadmap/</loc>
-		<lastmod>2022-04-26T10:41:24+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-21-503x1024.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/nft-sale/</loc>
-		<lastmod>2022-04-26T10:41:46+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/team/</loc>
 		<lastmod>2022-04-26T10:42:44+00:00</lastmod>
 		<image:image>
@@ -90,44 +79,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/coming-soon/</loc>
-		<lastmod>2022-04-26T10:42:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/home-v1/</loc>
-		<lastmod>2022-04-29T06:25:03+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-44-886x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-45-661x1024.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-16.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-15.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-13.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-12.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-9.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-8.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-11.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-10.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/about/</loc>
 		<lastmod>2022-11-02T22:45:31+00:00</lastmod>
 	</url>
@@ -158,40 +109,25 @@
 		<lastmod>2022-11-03T17:36:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/nft/</loc>
-		<lastmod>2022-11-08T02:35:27+00:00</lastmod>
+		<loc>/metaverse/</loc>
+		<lastmod>2022-11-10T07:06:01+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Clients-Love_img-2.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-44-886x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Clients-Love_img-3.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-45-661x1024.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/accordion-team.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-9.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Mechanics_img-1.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-8.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/team-image-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-11.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Mechanics_img-3.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/partner_img-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/partner_img-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/partner_img-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/partner_img-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/partner_img-3.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-10.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
