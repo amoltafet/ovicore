@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/?wpr_templates=user-header-nft-portfolio-v1-header</loc>
-		<lastmod>2022-11-08T22:45:03+00:00</lastmod>
+		<loc>/?wpr_templates=user-footer-nft-portfolio-v1-footer</loc>
+		<lastmod>2022-11-11T00:49:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/logo-name-e1667428795383.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/?wpr_templates=user-footer-nft-portfolio-v1-footer</loc>
-		<lastmod>2022-11-10T05:25:21+00:00</lastmod>
+		<loc>/?wpr_templates=user-header-nft-portfolio-v1-header</loc>
+		<lastmod>2022-11-11T00:50:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/logo-name-e1667428795383.png</image:loc>
 		</image:image>

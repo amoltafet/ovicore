@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2022-11-10T07:00:47+00:00</lastmod>
+		<lastmod>2022-11-11T00:47:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite.png</image:loc>
 		</image:image>
@@ -20,18 +20,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-10.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Screenshot-2022-11-07-at-9.22.57-PM-e1667885024759.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Screenshot-2022-11-07-at-9.15.30-PM-e1667884633885.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/Screenshot-2022-11-07-at-9.18.05-PM.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-14.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-28.jpg</image:loc>
@@ -79,12 +67,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
-		<lastmod>2022-11-02T22:45:31+00:00</lastmod>
+		<loc>/metaverse/</loc>
+		<lastmod>2022-11-11T00:43:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/pic-44-886x1024.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/pic-45-661x1024.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2022-11-02T22:54:26+00:00</lastmod>
+		<lastmod>2022-11-11T01:08:15+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-28.jpg</image:loc>
 		</image:image>
@@ -105,29 +99,16 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/faq/</loc>
-		<lastmod>2022-11-03T17:36:46+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/metaverse/</loc>
-		<lastmod>2022-11-10T07:06:01+00:00</lastmod>
+		<loc>/about/</loc>
+		<lastmod>2022-11-11T01:13:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-44-886x1024.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/11/info-box-icon-11.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-45-661x1024.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/11/info-box-icon-21.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-9.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-8.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-11.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-10.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/11/info-box-icon-31.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
