@@ -1,4 +1,4 @@
-/*! elementor - v3.8.0 - 30-10-2022 */
+/*! elementor - v3.8.1 - 13-11-2022 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -17338,7 +17338,7 @@ module.exports = _unsupportedIterableToArray, module.exports.__esModule = true, 
 /******/ 		__webpack_require__.u = (chunkId) => {
 /******/ 			// return url for filenames not based on template
 /******/ 			if (chunkId === "vendors-node_modules_react-query_devtools_index_js") return "edef531b0a4575e08dcf.bundle.js";
-/******/ 			if (chunkId === "kit-library") return "" + chunkId + ".b64c64cb74630835c1e3.bundle.js";
+/******/ 			if (chunkId === "kit-library") return "" + chunkId + ".5f449c6c414ea8220544.bundle.js";
 /******/ 			if (chunkId === "onboarding") return "" + chunkId + ".07504ab8f3b6a8e61982.bundle.js";
 /******/ 			// return url for filenames based on template
 /******/ 			return undefined;

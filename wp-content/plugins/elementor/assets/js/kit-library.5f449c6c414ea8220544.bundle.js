@@ -1,4 +1,4 @@
-/*! elementor - v3.8.0 - 30-10-2022 */
+/*! elementor - v3.8.1 - 13-11-2022 */
 (self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["kit-library"],{
 
 /***/ "../app/modules/kit-library/assets/js/components/badge.scss":
@@ -1080,6 +1080,8 @@ var _useDownloadLinkMutation = _interopRequireDefault(__webpack_require__(/*! ..
 
 var _useKitCallToAction3 = _interopRequireWildcard(__webpack_require__(/*! ../hooks/use-kit-call-to-action */ "../app/modules/kit-library/assets/js/hooks/use-kit-call-to-action.js"));
 
+var _useAddKitPromotionUtm = _interopRequireDefault(__webpack_require__(/*! ../hooks/use-add-kit-promotion-utm */ "../app/modules/kit-library/assets/js/hooks/use-add-kit-promotion-utm.js"));
+
 var _appUi = __webpack_require__(/*! @elementor/app-ui */ "@elementor/app-ui");
 
 var _settingsContext = __webpack_require__(/*! ../context/settings-context */ "../app/modules/kit-library/assets/js/context/settings-context.js");
@@ -1114,6 +1116,7 @@ function useKitCallToActionButton(model, _ref) {
       type = _useKitCallToAction2[0],
       subscriptionPlan = _useKitCallToAction2[1].subscriptionPlan;
 
+  var promotionUrl = (0, _useAddKitPromotionUtm.default)(subscriptionPlan.promotion_url, model.id, model.title);
   return (0, _react.useMemo)(function () {
     if (type === _useKitCallToAction3.TYPE_CONNECT) {
       return {
@@ -1133,22 +1136,6 @@ function useKitCallToActionButton(model, _ref) {
     }
 
     if (type === _useKitCallToAction3.TYPE_PROMOTION && subscriptionPlan) {
-      var getButtonURL = function getButtonURL() {
-        var url = subscriptionPlan.promotion_url;
-
-        if (model.title) {
-          // Remove special characters, replace spaces with '-' and convert url kit name to lowercase.
-          var cleanTitle = model.title.replace(/\s/g, '-').replace(/[^\w-]/g, '').toLowerCase();
-          url += "&utm_term=".concat(cleanTitle);
-        }
-
-        if (model.id) {
-          url += "&utm_content=".concat(model.id);
-        }
-
-        return url;
-      };
-
       return {
         id: 'promotion',
         // Translators: %s is the subscription plan name.
@@ -1157,7 +1144,7 @@ function useKitCallToActionButton(model, _ref) {
         variant: 'contained',
         color: 'cta',
         size: 'sm',
-        url: getButtonURL(),
+        url: promotionUrl,
         target: '_blank',
         includeHeaderBtnClass: false
       };
@@ -1348,6 +1335,8 @@ var _kit = _interopRequireDefault(__webpack_require__(/*! ../models/kit */ "../a
 
 var _useKitCallToAction3 = _interopRequireWildcard(__webpack_require__(/*! ../hooks/use-kit-call-to-action */ "../app/modules/kit-library/assets/js/hooks/use-kit-call-to-action.js"));
 
+var _useAddKitPromotionUtm = _interopRequireDefault(__webpack_require__(/*! ../hooks/use-add-kit-promotion-utm */ "../app/modules/kit-library/assets/js/hooks/use-add-kit-promotion-utm.js"));
+
 var _appUi = __webpack_require__(/*! @elementor/app-ui */ "@elementor/app-ui");
 
 var _appsEventTracking = __webpack_require__(/*! elementor-app/event-track/apps-event-tracking */ "../app/assets/js/event-track/apps-event-tracking.js");
@@ -1363,6 +1352,8 @@ var KitListItem = function KitListItem(props) {
       _useKitCallToAction2 = (0, _slicedToArray2.default)(_useKitCallToAction, 2),
       type = _useKitCallToAction2[0],
       subscriptionPlan = _useKitCallToAction2[1].subscriptionPlan;
+
+  var promotionUrl = (0, _useAddKitPromotionUtm.default)(subscriptionPlan.promotion_url, props.model.id, props.model.title);
 
   var eventTracking = function eventTracking(command) {
     (0, _appsEventTracking.appsEventTrackingDispatch)(command, {
@@ -1412,7 +1403,7 @@ var KitListItem = function KitListItem(props) {
     className: "e-kit-library__kit-item-overlay-promotion-button",
     text: "Go ".concat(subscriptionPlan.label),
     icon: "eicon-external-link-square",
-    url: subscriptionPlan.promotion_url,
+    url: promotionUrl,
     target: "_blank"
   }))))));
 };
@@ -2312,6 +2303,47 @@ SettingsProvider.propTypes = {
   children: PropTypes.any,
   value: PropTypes.object.isRequired
 };
+
+/***/ }),
+
+/***/ "../app/modules/kit-library/assets/js/hooks/use-add-kit-promotion-utm.js":
+/*!*******************************************************************************!*\
+  !*** ../app/modules/kit-library/assets/js/hooks/use-add-kit-promotion-utm.js ***!
+  \*******************************************************************************/
+/***/ ((__unused_webpack_module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+  value: true
+}));
+exports["default"] = useAddKitPromotionUTM;
+
+function useAddKitPromotionUTM(promotionUrl, kitId, kitTitle) {
+  if (!promotionUrl) {
+    return '';
+  }
+
+  var url;
+
+  try {
+    url = new URL(promotionUrl);
+  } catch (e) {
+    return '';
+  }
+
+  if (kitTitle && 'string' === typeof kitTitle) {
+    var cleanTitle = kitTitle.trim().replace(/\s+/g, '-').replace(/[^\w-]/g, '').toLowerCase();
+    url.searchParams.set('utm_term', cleanTitle);
+  }
+
+  if (kitId && 'string' === typeof kitId) {
+    url.searchParams.set('utm_content', kitId);
+  }
+
+  return url.toString();
+}
 
 /***/ }),
 
@@ -5056,4 +5088,4 @@ exports["default"] = _default;
 /***/ })
 
 }]);
-//# sourceMappingURL=kit-library.b64c64cb74630835c1e3.bundle.js.map
+//# sourceMappingURL=kit-library.5f449c6c414ea8220544.bundle.js.map
