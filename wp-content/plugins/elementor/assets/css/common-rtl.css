@@ -1,4 +1,4 @@
-/*! elementor - v3.8.1 - 13-11-2022 */
+/*! elementor - v3.7.5 - 14-09-2022 */
 .dialog-widget-content {
   background-color: #fff;
   position: absolute;
@@ -104,13 +104,6 @@
   margin-bottom: 10px;
 }
 #elementor-change-exit-preference-dialog .dialog-ok {
-  color: #39b54a;
-}
-
-#e-experiments-dependency-dialog .dialog-confirm-header {
-  font-weight: 600;
-}
-#e-experiments-dependency-dialog .dialog-ok {
   color: #39b54a;
 }
 
@@ -237,7 +230,7 @@
 .elementor-templates-modal .dialog-message {
   height: 750px;
   max-height: 85vh;
-  overflow-y: scroll;
+  overflow: auto;
   padding-top: 25px;
 }
 .elementor-templates-modal .dialog-content {

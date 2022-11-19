@@ -2,19 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>/post-sitemap.xml</loc>
-		<lastmod>2022-11-03T17:14:47+00:00</lastmod>
+		<lastmod>2022-11-15T22:13:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/page-sitemap.xml</loc>
-		<lastmod>2022-11-14T06:42:59+00:00</lastmod>
+		<lastmod>2022-11-19T00:51:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/wpr_templates-sitemap.xml</loc>
-		<lastmod>2022-11-14T06:46:19+00:00</lastmod>
+		<lastmod>2022-11-14T21:21:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/category-sitemap.xml</loc>
-		<lastmod>2022-11-03T17:14:47+00:00</lastmod>
+		<lastmod>2022-11-15T22:13:13+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/author-sitemap.xml</loc>
