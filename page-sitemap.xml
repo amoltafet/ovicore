@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2022-11-21T06:26:30+00:00</lastmod>
+		<lastmod>2022-12-16T19:40:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite.png</image:loc>
 		</image:image>
@@ -20,6 +20,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/pic-44-260x300.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/gonzagameta.jpg</image:loc>
@@ -67,10 +70,30 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/blog/</loc>
-		<lastmod>2022-11-11T01:08:15+00:00</lastmod>
+		<loc>/metaverse/</loc>
+		<lastmod>2022-12-16T19:28:13+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-28.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-45-194x300.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/</loc>
+		<lastmod>2022-12-16T19:34:44+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-bird.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-dots.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-cloud-bird.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/blog/</loc>
+		<lastmod>2022-12-16T19:36:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/gonzagameta.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-25.jpg</image:loc>
@@ -86,26 +109,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-27.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/metaverse/</loc>
-		<lastmod>2022-11-21T05:58:52+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-45-194x300.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/about/</loc>
-		<lastmod>2022-11-21T06:24:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-bird.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-dots.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-cloud-bird.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
