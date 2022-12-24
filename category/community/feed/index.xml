@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Community Archives | Ovicore Technologies</title>
-	<atom:link href="https://ovicore.com/category/community/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ovicore.com/category/community/</link>
+	<atom:link href="/category/community/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/community/</link>
 	<description>Augmented Reality</description>
 	<lastBuildDate>Fri, 16 Dec 2022 19:09:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://ovicore.com/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite-150x150.png</url>
+	<url>/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite-150x150.png</url>
 	<title>Community Archives | Ovicore Technologies</title>
-	<link>https://ovicore.com/category/community/</link>
+	<link>/category/community/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Gonzaga Land</title>
-		<link>https://ovicore.com/2022/04/27/gonzaga-land/</link>
-					<comments>https://ovicore.com/2022/04/27/gonzaga-land/#respond</comments>
+		<link>/2022/04/27/gonzaga-land/</link>
+					<comments>/2022/04/27/gonzaga-land/#respond</comments>
 		
 		<dc:creator><![CDATA[ahmad]]></dc:creator>
 		<pubDate>Wed, 27 Apr 2022 11:42:01 +0000</pubDate>
@@ -41,7 +41,7 @@
 		<guid isPermaLink="false">https://demosites.royal-elementor-addons.com/nft-portfolio-v1/?p=459</guid>
 
 					<description><![CDATA[<p>Gonzaga University, a private Jesuit university located in Spokane, Washington, recently announced the launch of Zag Land, a virtual reality platform that allows students, faculty, and staff to connect and collaborate in a fully immersive online environment.</p>
-<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/gonzaga-land/">Gonzaga Land</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+<p>The post <a rel="nofollow" href="/2022/04/27/gonzaga-land/">Gonzaga Land</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="459" class="elementor elementor-459">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-5cea6d8 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="5cea6d8" data-element_type="section">
@@ -51,7 +51,7 @@
 								<div class="elementor-element elementor-element-7440e52 elementor-widget elementor-widget-image" data-id="7440e52" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.5 - 14-09-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="1536" height="644" src="https://ovicore.com/wp-content/uploads/2022/04/gumeta-1-1536x644.jpg" class="attachment-1536x1536 size-1536x1536" alt="" loading="lazy" srcset="https://ovicore.com/wp-content/uploads/2022/04/gumeta-1-1536x644.jpg 1536w, https://ovicore.com/wp-content/uploads/2022/04/gumeta-1-300x126.jpg 300w, https://ovicore.com/wp-content/uploads/2022/04/gumeta-1-1024x429.jpg 1024w, https://ovicore.com/wp-content/uploads/2022/04/gumeta-1-768x322.jpg 768w, https://ovicore.com/wp-content/uploads/2022/04/gumeta-1.jpg 1600w" sizes="(max-width: 1536px) 100vw, 1536px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="1536" height="644" src="/wp-content/uploads/2022/04/gumeta-1-1536x644.jpg" class="attachment-1536x1536 size-1536x1536" alt="" loading="lazy" srcset="/wp-content/uploads/2022/04/gumeta-1-1536x644.jpg 1536w, /wp-content/uploads/2022/04/gumeta-1-300x126.jpg 300w, /wp-content/uploads/2022/04/gumeta-1-1024x429.jpg 1024w, /wp-content/uploads/2022/04/gumeta-1-768x322.jpg 768w, /wp-content/uploads/2022/04/gumeta-1.jpg 1600w" sizes="(max-width: 1536px) 100vw, 1536px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-cb48a58 elementor-widget elementor-widget-heading" data-id="cb48a58" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -68,18 +68,18 @@
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/gonzaga-land/">Gonzaga Land</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+		<p>The post <a rel="nofollow" href="/2022/04/27/gonzaga-land/">Gonzaga Land</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ovicore.com/2022/04/27/gonzaga-land/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/04/27/gonzaga-land/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Role of the Metaverse in Higher Education: An Educational Revolution</title>
-		<link>https://ovicore.com/2022/04/27/stop-creating-10000-nft-collections/</link>
-					<comments>https://ovicore.com/2022/04/27/stop-creating-10000-nft-collections/#respond</comments>
+		<link>/2022/04/27/stop-creating-10000-nft-collections/</link>
+					<comments>/2022/04/27/stop-creating-10000-nft-collections/#respond</comments>
 		
 		<dc:creator><![CDATA[ahmad]]></dc:creator>
 		<pubDate>Wed, 27 Apr 2022 11:37:51 +0000</pubDate>
@@ -88,7 +88,7 @@
 		<guid isPermaLink="false">https://demosites.royal-elementor-addons.com/nft-portfolio-v1/?p=457</guid>
 
 					<description><![CDATA[<p>The rise of the metaverse revolution has led to a new way of thinking about the future of education and learning. The School of the Future is Here Today! The Role of the Virtual Learning Environment in Modern Education will explore how virtual reality, augmented reality, and mixed reality are changing education as we know it.</p>
-<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/stop-creating-10000-nft-collections/">The Role of the Metaverse in Higher Education: An Educational Revolution</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+<p>The post <a rel="nofollow" href="/2022/04/27/stop-creating-10000-nft-collections/">The Role of the Metaverse in Higher Education: An Educational Revolution</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="457" class="elementor elementor-457">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-e6c2e69 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="e6c2e69" data-element_type="section">
@@ -97,7 +97,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b39d5f7 elementor-widget elementor-widget-image" data-id="b39d5f7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="2048" height="1068" src="https://ovicore.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-2048x1068.png" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" srcset="https://ovicore.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-2048x1068.png 2048w, https://ovicore.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-300x156.png 300w, https://ovicore.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-1024x534.png 1024w, https://ovicore.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-768x401.png 768w, https://ovicore.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-1536x801.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />															</div>
+															<img decoding="async" width="2048" height="1068" src="/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-2048x1068.png" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" srcset="/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-2048x1068.png 2048w, /wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-300x156.png 300w, /wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-1024x534.png 1024w, /wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-768x401.png 768w, /wp-content/uploads/2022/11/Screenshot-2022-11-14-at-1.19.33-PM-1536x801.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-6df9526 elementor-widget elementor-widget-heading" data-id="6df9526" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -112,18 +112,18 @@
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/stop-creating-10000-nft-collections/">The Role of the Metaverse in Higher Education: An Educational Revolution</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+		<p>The post <a rel="nofollow" href="/2022/04/27/stop-creating-10000-nft-collections/">The Role of the Metaverse in Higher Education: An Educational Revolution</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ovicore.com/2022/04/27/stop-creating-10000-nft-collections/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/04/27/stop-creating-10000-nft-collections/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Why I left the Bored Ape Yacht Club</title>
-		<link>https://ovicore.com/2022/04/27/why-i-left-the-bored-ape-yacht-club/</link>
-					<comments>https://ovicore.com/2022/04/27/why-i-left-the-bored-ape-yacht-club/#respond</comments>
+		<link>/2022/04/27/why-i-left-the-bored-ape-yacht-club/</link>
+					<comments>/2022/04/27/why-i-left-the-bored-ape-yacht-club/#respond</comments>
 		
 		<dc:creator><![CDATA[ahmad]]></dc:creator>
 		<pubDate>Wed, 27 Apr 2022 11:34:40 +0000</pubDate>
@@ -133,7 +133,7 @@
 		<guid isPermaLink="false">https://demosites.royal-elementor-addons.com/nft-portfolio-v1/?p=452</guid>
 
 					<description><![CDATA[<p>In late November 2021, as part of <o> Treeview’s business development exploration for opportunities in combining Metaverse technologies with Web3, I joined the Bored Ape Yacht Club (Link to the Post). Since joining</p>
-<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/why-i-left-the-bored-ape-yacht-club/">Why I left the Bored Ape Yacht Club</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+<p>The post <a rel="nofollow" href="/2022/04/27/why-i-left-the-bored-ape-yacht-club/">Why I left the Bored Ape Yacht Club</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="452" class="elementor elementor-452">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-e78430e elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="e78430e" data-element_type="section">
@@ -142,7 +142,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-51d84af elementor-widget elementor-widget-image" data-id="51d84af" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="650" height="780" src="https://ovicore.com/wp-content/uploads/2022/04/pic-37.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://ovicore.com/wp-content/uploads/2022/04/pic-37.png 650w, https://ovicore.com/wp-content/uploads/2022/04/pic-37-250x300.png 250w" sizes="(max-width: 650px) 100vw, 650px" />															</div>
+															<img decoding="async" width="650" height="780" src="/wp-content/uploads/2022/04/pic-37.png" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/04/pic-37.png 650w, /wp-content/uploads/2022/04/pic-37-250x300.png 250w" sizes="(max-width: 650px) 100vw, 650px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-6b0327e elementor-widget elementor-widget-heading" data-id="6b0327e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -157,18 +157,18 @@
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/why-i-left-the-bored-ape-yacht-club/">Why I left the Bored Ape Yacht Club</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+		<p>The post <a rel="nofollow" href="/2022/04/27/why-i-left-the-bored-ape-yacht-club/">Why I left the Bored Ape Yacht Club</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ovicore.com/2022/04/27/why-i-left-the-bored-ape-yacht-club/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/04/27/why-i-left-the-bored-ape-yacht-club/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>10 NFT Marketing Strategies 2022</title>
-		<link>https://ovicore.com/2022/04/27/10-nft-marketing-strategies-2022/</link>
-					<comments>https://ovicore.com/2022/04/27/10-nft-marketing-strategies-2022/#respond</comments>
+		<link>/2022/04/27/10-nft-marketing-strategies-2022/</link>
+					<comments>/2022/04/27/10-nft-marketing-strategies-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[ahmad]]></dc:creator>
 		<pubDate>Wed, 27 Apr 2022 11:34:00 +0000</pubDate>
@@ -179,7 +179,7 @@
 		<guid isPermaLink="false">https://demosites.royal-elementor-addons.com/nft-portfolio-v1/?p=450</guid>
 
 					<description><![CDATA[<p>Marketing NFTs isn’t a walk in the park, especially if it’s a new project. But in recent times, we’ve seen projects like BAYC and in Betweeners breaking that barrier. In 2021 alone, the volume sale of NFTs was $14 billion.</p>
-<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/10-nft-marketing-strategies-2022/">10 NFT Marketing Strategies 2022</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+<p>The post <a rel="nofollow" href="/2022/04/27/10-nft-marketing-strategies-2022/">10 NFT Marketing Strategies 2022</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="450" class="elementor elementor-450">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-d92f9a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="d92f9a1" data-element_type="section">
@@ -188,7 +188,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b03b380 elementor-widget elementor-widget-image" data-id="b03b380" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="650" height="780" src="https://ovicore.com/wp-content/uploads/2022/04/pic-38.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://ovicore.com/wp-content/uploads/2022/04/pic-38.png 650w, https://ovicore.com/wp-content/uploads/2022/04/pic-38-250x300.png 250w" sizes="(max-width: 650px) 100vw, 650px" />															</div>
+															<img decoding="async" width="650" height="780" src="/wp-content/uploads/2022/04/pic-38.png" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/04/pic-38.png 650w, /wp-content/uploads/2022/04/pic-38-250x300.png 250w" sizes="(max-width: 650px) 100vw, 650px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-40a0d53 elementor-widget elementor-widget-heading" data-id="40a0d53" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -203,18 +203,18 @@
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/10-nft-marketing-strategies-2022/">10 NFT Marketing Strategies 2022</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+		<p>The post <a rel="nofollow" href="/2022/04/27/10-nft-marketing-strategies-2022/">10 NFT Marketing Strategies 2022</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ovicore.com/2022/04/27/10-nft-marketing-strategies-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/04/27/10-nft-marketing-strategies-2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What makes an NFT project successful?</title>
-		<link>https://ovicore.com/2022/04/27/what-makes-an-nft-project-successful/</link>
-					<comments>https://ovicore.com/2022/04/27/what-makes-an-nft-project-successful/#respond</comments>
+		<link>/2022/04/27/what-makes-an-nft-project-successful/</link>
+					<comments>/2022/04/27/what-makes-an-nft-project-successful/#respond</comments>
 		
 		<dc:creator><![CDATA[ahmad]]></dc:creator>
 		<pubDate>Wed, 27 Apr 2022 11:28:00 +0000</pubDate>
@@ -225,7 +225,7 @@
 					<description><![CDATA[<p>I like the idea of decentralization amongst nations and want all countries to be as autonomous as possible; however, let’s say that we enter interstellar space and we discover there are hundreds of alien civilizations.<br />
 Well, I don’t know about you but *someone* on Earth needs to be in charge and it sure as hell isn’t going to be a planet full-on individualism!<br />
 In order to present a respectable image in the galactic playing field, we would need to represent our planet and our species, not our particular island.</p>
-<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/what-makes-an-nft-project-successful/">What makes an NFT project successful?</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+<p>The post <a rel="nofollow" href="/2022/04/27/what-makes-an-nft-project-successful/">What makes an NFT project successful?</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="439" class="elementor elementor-439">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-78d6a23 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="78d6a23" data-element_type="section">
@@ -234,7 +234,7 @@ In order to present a respectable image in the galactic playing field, we would 
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1efde1b elementor-widget elementor-widget-image" data-id="1efde1b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="650" height="780" src="https://ovicore.com/wp-content/uploads/2022/04/pic-39.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://ovicore.com/wp-content/uploads/2022/04/pic-39.png 650w, https://ovicore.com/wp-content/uploads/2022/04/pic-39-250x300.png 250w" sizes="(max-width: 650px) 100vw, 650px" />															</div>
+															<img decoding="async" width="650" height="780" src="/wp-content/uploads/2022/04/pic-39.png" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/04/pic-39.png 650w, /wp-content/uploads/2022/04/pic-39-250x300.png 250w" sizes="(max-width: 650px) 100vw, 650px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-c4c048c elementor-widget elementor-widget-heading" data-id="c4c048c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -249,10 +249,10 @@ In order to present a respectable image in the galactic playing field, we would 
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="https://ovicore.com/2022/04/27/what-makes-an-nft-project-successful/">What makes an NFT project successful?</a> appeared first on <a rel="nofollow" href="https://ovicore.com/">Ovicore Technologies</a>.</p>
+		<p>The post <a rel="nofollow" href="/2022/04/27/what-makes-an-nft-project-successful/">What makes an NFT project successful?</a> appeared first on <a rel="nofollow" href="/">Ovicore Technologies</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ovicore.com/2022/04/27/what-makes-an-nft-project-successful/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/04/27/what-makes-an-nft-project-successful/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

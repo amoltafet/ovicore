@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Ovicore Technologies	</title>
-	<atom:link href="https://ovicore.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ovicore.com/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Augmented Reality</description>
-	<lastBuildDate>Sat, 24 Dec 2022 08:06:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Dec 2022 08:12:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
