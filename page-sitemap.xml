@@ -2,12 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2022-12-16T19:40:57+00:00</lastmod>
+		<lastmod>2022-12-24T08:12:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/sect1-20221111-013505-e1668130517695.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-9.png</image:loc>
@@ -70,28 +67,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/metaverse/</loc>
-		<lastmod>2022-12-16T19:28:13+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-45-194x300.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/about/</loc>
-		<lastmod>2022-12-16T19:34:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-bird.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-dots.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-cloud-bird.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/blog/</loc>
-		<lastmod>2022-12-16T19:36:32+00:00</lastmod>
+		<lastmod>2022-12-19T19:54:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/gonzagameta.jpg</image:loc>
 		</image:image>
@@ -109,6 +86,26 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/pic-27.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/</loc>
+		<lastmod>2022-12-24T07:57:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-bird.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-dots.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-cloud-bird.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ar/</loc>
+		<lastmod>2022-12-24T08:06:15+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/12/landing-app-layout-vector.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
