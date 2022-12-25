@@ -2,24 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2022-12-24T21:46:17+00:00</lastmod>
+		<lastmod>2022-12-25T03:57:39+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/cropped-logoshrinkblackadnwhite.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-9.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-8.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-11.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-10.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/04/pic-44-260x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/04/pic-45-194x300.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/04/gonzagameta.jpg</image:loc>
@@ -67,6 +55,26 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/metaverse/</loc>
+		<lastmod>2022-12-19T19:40:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/04/pic-45-194x300.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/</loc>
+		<lastmod>2022-12-19T19:48:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-bird.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-dots.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/11/heading-cloud-bird.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/blog/</loc>
 		<lastmod>2022-12-19T19:54:11+00:00</lastmod>
 		<image:image>
@@ -89,21 +97,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
-		<lastmod>2022-12-24T07:57:11+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-bird.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-dots.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/11/heading-cloud-bird.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/ar/</loc>
-		<lastmod>2022-12-24T08:06:15+00:00</lastmod>
+		<lastmod>2022-12-25T03:58:22+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/12/landing-app-layout-vector.png</image:loc>
 		</image:image>
